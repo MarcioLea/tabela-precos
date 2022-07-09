@@ -1,6 +1,6 @@
 Tabela de preços em Angular
 
-Accesse: https://stately-cactus-87fcdd.netlify.app/
+Link: https://stately-cactus-87fcdd.netlify.app/
 
 # TabelaPrecos
 
